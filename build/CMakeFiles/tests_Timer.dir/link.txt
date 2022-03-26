@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/tests_Timer.dir/tests/test_Timer.cpp.o  -o ../bin/tests_Timer -rdynamic ../lib/libsylar.so -lpthread -lyaml-cpp -Wl,-rpath,/home/lqf/cpp/sylar/lib 
