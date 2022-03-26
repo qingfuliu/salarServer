@@ -1,0 +1,14 @@
+logs: 
+    - name: root
+      level: info
+      appenders: 
+          - type: FileLogAppender
+            file: /home/lqf/cpp/sylar/logData/root1.txt
+          - type: StdoutLogAppender
+          - type: FileLogAppender
+    - name: lqf
+      level: info
+      appenders: 
+          - type: FileLogAppender
+            file: /home/lqf/cpp/sylar/logData/system1.txt
+          - type: StdoutLogAppender

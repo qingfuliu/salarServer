@@ -1,0 +1,781 @@
+2022:01:16 21:40:48 [Scheduler Thread:]:31948 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295859697408Scheduler Thread:_0  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295777810176Scheduler Thread:_1  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295769417472Scheduler Thread:_2  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295761024768Scheduler Thread:_3  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295752632064Scheduler Thread:_4  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 21:40:48 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295744239360Scheduler Thread:_5  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 21:40:48 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295735846656Scheduler Thread:_6  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295726401280Scheduler Thread:_7  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 21:40:48 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140295240939264Scheduler Thread:_8  running.... 
+2022:01:16 21:40:48 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 21:40:48 [Scheduler Thread:_8]:31948 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 21:40:48 [Scheduler Thread:_8]:31948 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 11 [DEBUG]  [root] <tests/test_IOManager.cpp :3> test_IOManager 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 13 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 12 [DEBUG]  [root] <tests/test_IOManager.cpp :3> test_IOManager 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 14 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 13 [DEBUG]  [root] <tests/test_IOManager.cpp :3> test_IOManager 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 14 [DEBUG]  [root] <tests/test_IOManager.cpp :3> test_IOManager 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 13 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 14 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295859697408exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_0]:31949 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295777810176exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_1]:31950 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295726401280exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_7]:31956 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295769417472exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_2]:31951 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295761024768exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_3]:31952 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295752632064exit.... 
+2022:01:16 21:40:48 [Scheduler Thread:_4]:31953 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:53 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:53 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 21:40:53 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295735846656exit.... 
+2022:01:16 21:40:53 [Scheduler Thread:_6]:31955 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:53 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:53 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 21:40:53 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295744239360exit.... 
+2022:01:16 21:40:53 [Scheduler Thread:_5]:31954 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140295240939264exit.... 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31957 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31948 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 21:40:53 [Scheduler Thread:_8]:31948 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:34:55 [Scheduler Thread:]:33496 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:34:55 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372362794752Scheduler Thread:_0  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:34:55 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372281915136Scheduler Thread:_1  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372273522432Scheduler Thread:_2  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:34:55 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372265129728Scheduler Thread:_3  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:34:55 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372256737024Scheduler Thread:_4  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:34:55 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372248344320Scheduler Thread:_5  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:34:55 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372238898944Scheduler Thread:_6  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140372229453568Scheduler Thread:_7  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:34:55 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140371745044224Scheduler Thread:_8  running.... 
+2022:01:16 22:34:55 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:34:55 [Scheduler Thread:_8]:33496 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:34:55 [Scheduler Thread:_8]:33496 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 12 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372229453568exit.... 
+2022:01:16 22:34:55 [Scheduler Thread:_7]:33504 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372273522432exit.... 
+2022:01:16 22:34:55 [Scheduler Thread:_2]:33499 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140371745044224exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33505 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:35:00 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372248344320exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_5]:33502 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:35:00 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372238898944exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_6]:33503 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:35:00 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372281915136exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_1]:33498 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:35:00 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372256737024exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_4]:33501 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:35:00 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:35:00 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:35:00 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372265129728exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140372362794752exit.... 
+2022:01:16 22:35:00 [Scheduler Thread:_3]:33500 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_0]:33497 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33496 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:35:00 [Scheduler Thread:_8]:33496 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:17 [Scheduler Thread:]:33900 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:37:17 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871809746688Scheduler Thread:_0  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:37:17 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871800301312Scheduler Thread:_1  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:37:17 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871716898560Scheduler Thread:_2  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:37:17 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871708505856Scheduler Thread:_3  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871700113152Scheduler Thread:_4  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:37:17 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871691720448Scheduler Thread:_5  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:37:17 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871683327744Scheduler Thread:_6  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871674935040Scheduler Thread:_7  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:37:17 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/thread.cpp :78> 139871666542336Scheduler Thread:_8  running.... 
+2022:01:16 22:37:17 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:37:17 [Scheduler Thread:_8]:33900 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:37:17 [Scheduler Thread:_8]:33900 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 12 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871700113152exit.... 
+2022:01:16 22:37:17 [Scheduler Thread:_4]:33905 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871674935040exit.... 
+2022:01:16 22:37:17 [Scheduler Thread:_7]:33908 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:37:22 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871683327744exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_6]:33907 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:37:22 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871800301312exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_1]:33902 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871666542336exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33909 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:37:22 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871716898560exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_2]:33903 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:37:22 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871691720448exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_5]:33906 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:37:22 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871809746688exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_0]:33901 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:37:22 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:37:22 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/thread.cpp :84> 139871708505856exit.... 
+2022:01:16 22:37:22 [Scheduler Thread:_3]:33904 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33900 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:37:22 [Scheduler Thread:_8]:33900 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:40:35 [Scheduler Thread:]:34364 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:40:35 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704Scheduler Thread:_0  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:40:35 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737321539328Scheduler Thread:_1  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:40:35 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737312093952Scheduler Thread:_2  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:40:35 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737302648576Scheduler Thread:_3  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:40:35 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737085699840Scheduler Thread:_4  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:40:35 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737077307136Scheduler Thread:_5  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:40:35 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737068914432Scheduler Thread:_6  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:40:35 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737060521728Scheduler Thread:_7  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:40:35 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737052129024Scheduler Thread:_8  running.... 
+2022:01:16 22:40:35 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:41:16 [Scheduler Thread:_8]:34364 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:41:16 [Scheduler Thread:_8]:34364 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:41:16 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:41:16 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 22:41:24 [Scheduler Thread:_0]:34371 11 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event0 
+2022:01:16 22:41:34 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 12 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event0 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 22:41:34 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:34 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:41:34 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737330984704exit.... 
+2022:01:16 22:41:34 [Scheduler Thread:_0]:34371 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737321539328exit.... 
+2022:01:16 22:41:34 [Scheduler Thread:_1]:34372 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:41:39 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737077307136exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_5]:34376 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:41:39 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737060521728exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_7]:34378 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:41:39 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737312093952exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_2]:34373 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:41:39 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737068914432exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_6]:34377 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:41:39 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737085699840exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_4]:34375 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:41:39 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737302648576exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_3]:34374 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737052129024exit.... 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34379 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34364 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:41:39 [Scheduler Thread:_8]:34364 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:42:38 [Scheduler Thread:]:34779 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:42:38 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704Scheduler Thread:_0  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:42:38 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737321539328Scheduler Thread:_1  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:42:38 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737312093952Scheduler Thread:_2  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:42:38 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737302648576Scheduler Thread:_3  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:42:38 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737085699840Scheduler Thread:_4  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:42:38 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737077307136Scheduler Thread:_5  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:42:38 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737068914432Scheduler Thread:_6  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:42:38 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737060521728Scheduler Thread:_7  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:42:38 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737052129024Scheduler Thread:_8  running.... 
+2022:01:16 22:42:38 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:43:05 [Scheduler Thread:_8]:34779 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:43:05 [Scheduler Thread:_8]:34779 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:43:05 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:43:11 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 22:43:36 [Scheduler Thread:_6]:34791 11 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event0 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 12 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event0 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 22:43:37 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737077307136exit.... 
+2022:01:16 22:43:37 [Scheduler Thread:_5]:34790 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:37 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:37 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:43:37 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737068914432exit.... 
+2022:01:16 22:43:37 [Scheduler Thread:_6]:34791 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:42 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:42 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:43:42 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737321539328exit.... 
+2022:01:16 22:43:42 [Scheduler Thread:_1]:34786 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:47 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:47 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:43:47 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737060521728exit.... 
+2022:01:16 22:43:47 [Scheduler Thread:_7]:34792 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:47 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:47 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:43:47 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737312093952exit.... 
+2022:01:16 22:43:47 [Scheduler Thread:_2]:34787 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:47 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:47 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:43:47 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737330984704exit.... 
+2022:01:16 22:43:47 [Scheduler Thread:_0]:34785 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:47 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:47 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:43:47 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737085699840exit.... 
+2022:01:16 22:43:47 [Scheduler Thread:_4]:34789 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:52 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:52 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:43:52 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737302648576exit.... 
+2022:01:16 22:43:52 [Scheduler Thread:_3]:34788 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737052129024exit.... 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34793 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34779 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:43:57 [Scheduler Thread:_8]:34779 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:]:35525 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:46:56 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348502374144Scheduler Thread:_0  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:46:56 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348492928768Scheduler Thread:_1  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348483483392Scheduler Thread:_2  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348474038016Scheduler Thread:_3  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348256941824Scheduler Thread:_4  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348248549120Scheduler Thread:_5  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348240156416Scheduler Thread:_6  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348231763712Scheduler Thread:_7  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140348223371008Scheduler Thread:_8  running.... 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35525 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35525 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348256941824exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_4]:35530 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348248549120exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_5]:35531 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348231763712exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_7]:35533 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348240156416exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_6]:35532 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348223371008exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_8]:35534 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348483483392exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_2]:35528 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348474038016exit.... 
+2022:01:16 22:46:56 [Scheduler Thread:_3]:35529 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:01 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:01 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:47:01 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348502374144exit.... 
+2022:01:16 22:47:01 [Scheduler Thread:_0]:35526 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:01 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:01 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:47:01 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140348492928768exit.... 
+2022:01:16 22:47:01 [Scheduler Thread:_1]:35527 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:01 [Scheduler Thread:_8]:35525 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:47:01 [Scheduler Thread:_8]:35525 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:12 [Scheduler Thread:]:35622 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:47:12 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531651155712Scheduler Thread:_0  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:47:12 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531641710336Scheduler Thread:_1  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:47:12 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531632264960Scheduler Thread:_2  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:47:12 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531622819584Scheduler Thread:_3  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:47:12 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531614426880Scheduler Thread:_4  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:47:12 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531262813952Scheduler Thread:_5  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:47:12 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531254421248Scheduler Thread:_6  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531246028544Scheduler Thread:_7  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:47:12 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140531237635840Scheduler Thread:_8  running.... 
+2022:01:16 22:47:12 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:47:12 [Scheduler Thread:_8]:35622 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:47:12 [Scheduler Thread:_8]:35622 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531246028544exit.... 
+2022:01:16 22:47:12 [Scheduler Thread:_7]:35630 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:47:17 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531641710336exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_1]:35624 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:47:17 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531622819584exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_3]:35626 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:47:17 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531614426880exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_4]:35627 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:47:17 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531262813952exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_5]:35628 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:47:17 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531254421248exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_6]:35629 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531237635840exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35631 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:47:17 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531632264960exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_2]:35625 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:47:17 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:47:17 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140531651155712exit.... 
+2022:01:16 22:47:17 [Scheduler Thread:_0]:35623 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35622 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:47:17 [Scheduler Thread:_8]:35622 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:50:58 [Scheduler Thread:]:36464 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 22:50:58 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704Scheduler Thread:_0  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 22:50:58 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737322592000Scheduler Thread:_1  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 22:50:58 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737312093952Scheduler Thread:_2  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 22:50:58 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737302648576Scheduler Thread:_3  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 22:50:58 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737085699840Scheduler Thread:_4  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 22:50:58 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737077307136Scheduler Thread:_5  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 22:50:58 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737068914432Scheduler Thread:_6  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 22:50:58 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737060521728Scheduler Thread:_7  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 22:50:58 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737052129024Scheduler Thread:_8  running.... 
+2022:01:16 22:50:58 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 22:51:03 [Scheduler Thread:_8]:36464 0 [DEBUG]  [root] <sylar/IOManager.cpp :60> IOManager stop... 
+2022:01:16 22:51:03 [Scheduler Thread:_8]:36464 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 22:51:03 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 22:51:07 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 22:51:33 [Scheduler Thread:_3]:36474 11 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:51:33 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 12 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737330984704exit.... 
+2022:01:16 22:51:38 [Scheduler Thread:_0]:36471 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:43 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:43 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 22:51:43 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737302648576exit.... 
+2022:01:16 22:51:43 [Scheduler Thread:_3]:36474 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 22:51:48 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737312093952exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_2]:36473 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 22:51:48 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737068914432exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_6]:36477 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 22:51:48 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737077307136exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_5]:36476 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 22:51:48 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737060521728exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_7]:36478 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 22:51:48 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737085699840exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_4]:36475 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 22:51:48 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737322592000exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_1]:36472 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:48 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 22:51:48 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 22:51:48 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737052129024exit.... 
+2022:01:16 22:51:48 [Scheduler Thread:_8]:36479 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 22:51:49 [Scheduler Thread:_8]:36464 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 22:51:49 [Scheduler Thread:_8]:36464 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:00:30 []:38374 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:00:32 [_0]:38420 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704_0  running.... 
+2022:01:16 23:00:32 [_0]:38420 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:01:56 [_0]:38374 0 [DEBUG]  [root] <sylar/IOManager.cpp :61> IOManager stop... 
+2022:01:16 23:01:56 [_0]:38374 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:02:21 [_0]:38420 2 [FATAL]  [root] <sylar/IOManager.cpp :21> 
+ASSERT FATAL: event&_event
+backTrace:   
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar9IOManager8FdContex12triggerEventENS0_5EventE+0x8c) [0x7ffff7bad6f4]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar9IOManager4idleEv+0x4ea) [0x7ffff7bb0808]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNKSt7_Mem_fnIMN5sylar9SchedulerEFvvEEclIIEvEEvPS1_DpOT_+0x65) [0x7ffff7ba4a2b]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS2_EE6__callIvJEJLm0EEEET_OSt5tupleIJDpT0_EESt12_Index_tupleIJXspT1_EEE+0x48) [0x7ffff7ba41d4]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS2_EEclIJEvEET0_DpOT_+0x28) [0x7ffff7ba35fe]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt17_Function_handlerIFvvESt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS4_EEE9_M_invokeERKSt9_Any_data+0x20) [0x7ffff7ba28a3]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNKSt8functionIFvvEEclEv+0x32) [0x7ffff7b7aaac]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar5Fiber8MainFuncEv+0x40) [0x7ffff7ba806e]
+ 
+2022:01:16 23:08:10 []:39574 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:08:10 [_0]:39580 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704_0  running.... 
+2022:01:16 23:08:10 [_0]:39580 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:08:10 [_0]:39574 0 [DEBUG]  [root] <sylar/IOManager.cpp :61> IOManager stop... 
+2022:01:16 23:08:10 [_0]:39574 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:08:14 [_0]:39580 2 [FATAL]  [root] <sylar/IOManager.cpp :9> 
+ASSERT FATAL: event&_event
+backTrace:   
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar9IOManager8FdContex14getEventConetxENS0_5EventE+0x8c) [0x7ffff7bad18a]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar9IOManager8FdContex12triggerEventENS0_5EventE+0x25b) [0x7ffff7bad8c3]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZN5sylar9IOManager4idleEv+0x4ea) [0x7ffff7bb0808]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNKSt7_Mem_fnIMN5sylar9SchedulerEFvvEEclIIEvEEvPS1_DpOT_+0x65) [0x7ffff7ba4a2b]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS2_EE6__callIvJEJLm0EEEET_OSt5tupleIJDpT0_EESt12_Index_tupleIJXspT1_EEE+0x48) [0x7ffff7ba41d4]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS2_EEclIJEvEET0_DpOT_+0x28) [0x7ffff7ba35fe]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNSt17_Function_handlerIFvvESt5_BindIFSt7_Mem_fnIMN5sylar9SchedulerEFvvEEPS4_EEE9_M_invokeERKSt9_Any_data+0x20) [0x7ffff7ba28a3]
+/home/lqf/cpp/sylar/lib/libsylar.so(_ZNKSt8functionIFvvEEclEv+0x32) [0x7ffff7b7aaac]
+ 
+2022:01:16 23:09:03 []:39873 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:09:03 [_0]:39879 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704_0  running.... 
+2022:01:16 23:09:03 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:09:03 [_0]:39873 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:09:03 [_0]:39873 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:09:08 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 23:09:10 [_0]:39879 3 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 23:09:10 [_0]:39879 4 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :31> READ event 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737330984704exit.... 
+2022:01:16 23:09:10 [_0]:39879 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:10 [_0]:39873 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 23:09:10 [_0]:39873 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:41 []:40128 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:09:41 [_0]:40134 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737330984704_0  running.... 
+2022:01:16 23:09:41 [_0]:40134 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:09:41 [_1]:40135 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737321539328_1  running.... 
+2022:01:16 23:09:41 [_1]:40135 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737312093952_2  running.... 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 23:09:41 [_3]:40137 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737303701248_3  running.... 
+2022:01:16 23:09:41 [_3]:40137 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 23:09:41 [_4]:40138 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737085699840_4  running.... 
+2022:01:16 23:09:41 [_4]:40138 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 23:09:41 [_5]:40139 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737077307136_5  running.... 
+2022:01:16 23:09:41 [_5]:40139 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 23:09:41 [_6]:40140 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737068914432_6  running.... 
+2022:01:16 23:09:41 [_6]:40140 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 23:09:41 [_7]:40141 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737060521728_7  running.... 
+2022:01:16 23:09:41 [_7]:40141 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 23:09:41 [_8]:40142 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140737052129024_8  running.... 
+2022:01:16 23:09:41 [_8]:40142 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 23:09:41 [_8]:40128 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:09:41 [_8]:40128 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 23:09:41 [_2]:40136 11 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 23:09:41 [_2]:40136 12 [DEBUG]  [root] </home/lqf/cpp/sylar/tests/test_IOManager.cpp :31> READ event 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737312093952exit.... 
+2022:01:16 23:09:41 [_2]:40136 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_1]:40135 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_1]:40135 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 23:09:46 [_1]:40135 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737321539328exit.... 
+2022:01:16 23:09:46 [_1]:40135 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_4]:40138 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_4]:40138 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 23:09:46 [_4]:40138 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737085699840exit.... 
+2022:01:16 23:09:46 [_4]:40138 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_3]:40137 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_5]:40139 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_3]:40137 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 23:09:46 [_3]:40137 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737303701248exit.... 
+2022:01:16 23:09:46 [_3]:40137 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_5]:40139 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 23:09:46 [_5]:40139 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737077307136exit.... 
+2022:01:16 23:09:46 [_5]:40139 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_7]:40141 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_7]:40141 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 23:09:46 [_7]:40141 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737060521728exit.... 
+2022:01:16 23:09:46 [_7]:40141 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_8]:40142 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_8]:40142 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 23:09:46 [_8]:40142 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737052129024exit.... 
+2022:01:16 23:09:46 [_8]:40142 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_0]:40134 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_0]:40134 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 23:09:46 [_0]:40134 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737330984704exit.... 
+2022:01:16 23:09:46 [_0]:40134 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_6]:40140 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:09:46 [_6]:40140 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 23:09:46 [_6]:40140 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140737068914432exit.... 
+2022:01:16 23:09:46 [_6]:40140 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:09:46 [_8]:40128 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 23:09:46 [_8]:40128 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:04 []:40344 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:11:04 [_0]:40345 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116297553664_0  running.... 
+2022:01:16 23:11:04 [_0]:40345 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:11:04 [_1]:40346 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116288108288_1  running.... 
+2022:01:16 23:11:04 [_1]:40346 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 23:11:04 [_2]:40347 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116279715584_2  running.... 
+2022:01:16 23:11:04 [_2]:40347 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 23:11:04 [_3]:40348 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116270270208_3  running.... 
+2022:01:16 23:11:04 [_3]:40348 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 23:11:04 [_4]:40349 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116058167040_4  running.... 
+2022:01:16 23:11:04 [_4]:40349 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 23:11:04 [_5]:40350 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116048721664_5  running.... 
+2022:01:16 23:11:04 [_5]:40350 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116039276288_6  running.... 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116030883584_7  running.... 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 23:11:04 [_8]:40353 0 [DEBUG]  [root] <sylar/thread.cpp :78> 140116020385536_8  running.... 
+2022:01:16 23:11:04 [_8]:40353 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 23:11:04 [_8]:40344 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:11:04 [_8]:40344 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 23:11:04 [_7]:40352 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 23:11:04 [_6]:40351 12 [DEBUG]  [root] <tests/test_IOManager.cpp :31> READ event 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116030883584exit.... 
+2022:01:16 23:11:04 [_7]:40352 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116039276288exit.... 
+2022:01:16 23:11:04 [_6]:40351 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_3]:40348 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_3]:40348 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 23:11:09 [_3]:40348 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116270270208exit.... 
+2022:01:16 23:11:09 [_3]:40348 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_2]:40347 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_2]:40347 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 23:11:09 [_2]:40347 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116279715584exit.... 
+2022:01:16 23:11:09 [_2]:40347 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_1]:40346 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_1]:40346 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 23:11:09 [_1]:40346 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116288108288exit.... 
+2022:01:16 23:11:09 [_1]:40346 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_8]:40353 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_8]:40353 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 23:11:09 [_8]:40353 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116020385536exit.... 
+2022:01:16 23:11:09 [_8]:40353 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_4]:40349 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_4]:40349 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 23:11:09 [_4]:40349 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116058167040exit.... 
+2022:01:16 23:11:09 [_4]:40349 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_0]:40345 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_0]:40345 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 23:11:09 [_0]:40345 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116297553664exit.... 
+2022:01:16 23:11:09 [_0]:40345 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_5]:40350 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:11:09 [_5]:40350 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 23:11:09 [_5]:40350 0 [DEBUG]  [root] <sylar/thread.cpp :84> 140116048721664exit.... 
+2022:01:16 23:11:09 [_5]:40350 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:11:09 [_8]:40344 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 23:11:09 [_8]:40344 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:13 []:40653 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 1 
+2022:01:16 23:13:13 [_0]:40654 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 2 
+2022:01:16 23:13:13 [_1]:40655 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 3 
+2022:01:16 23:13:13 [_2]:40656 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 4 
+2022:01:16 23:13:13 [_3]:40657 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 5 
+2022:01:16 23:13:13 [_4]:40658 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 6 
+2022:01:16 23:13:13 [_5]:40659 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 7 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 8 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 9 
+2022:01:16 23:13:13 [_8]:40662 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 10 
+2022:01:16 23:13:13 [_8]:40653 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:13:13 [_8]:40653 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 11 
+2022:01:16 23:13:13 [_7]:40661 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/fiber.cpp :54> Fiber: 12 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 11 
+2022:01:16 23:13:13 [_6]:40660 12 [DEBUG]  [root] <tests/test_IOManager.cpp :31> READ event 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 12 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 9 
+2022:01:16 23:13:13 [_7]:40661 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 8 
+2022:01:16 23:13:13 [_6]:40660 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_1]:40655 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_1]:40655 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 3 
+2022:01:16 23:13:18 [_1]:40655 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_5]:40659 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_5]:40659 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 7 
+2022:01:16 23:13:18 [_5]:40659 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_0]:40654 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_0]:40654 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 2 
+2022:01:16 23:13:18 [_0]:40654 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_8]:40662 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_8]:40662 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 10 
+2022:01:16 23:13:18 [_8]:40662 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_2]:40656 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_2]:40656 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 4 
+2022:01:16 23:13:18 [_2]:40656 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_4]:40658 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_4]:40658 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 6 
+2022:01:16 23:13:18 [_4]:40658 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_3]:40657 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:13:18 [_3]:40657 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 5 
+2022:01:16 23:13:18 [_3]:40657 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:13:18 [_8]:40653 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 1 
+2022:01:16 23:13:18 [_8]:40653 0 [DEBUG]  [root] <sylar/fiber.cpp :89> ~Fiber: 0 
+2022:01:16 23:14:38 [_8]:40844 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:14:38 [_8]:40844 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:14:38 [_7]:40852 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:14:38 [_6]:40851 12 [DEBUG]  [root] <tests/test_IOManager.cpp :31> READ event 
+2022:01:16 23:14:38 [_7]:40852 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:38 [_6]:40851 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_4]:40849 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_8]:40853 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_0]:40845 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_5]:40850 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_1]:40846 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_2]:40847 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:14:43 [_3]:40848 0 [DEBUG]  [root] <sylar/scheduler.cpp :171> Scheduler::run() exit 
+2022:01:16 23:15:42 [_8]:41008 0 [DEBUG]  [root] <sylar/IOManager.cpp :62> IOManager stop... 
+2022:01:16 23:15:42 [_8]:41008 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:16 23:15:42 [_8]:41017 11 [DEBUG]  [root] <tests/test_IOManager.cpp :37> WRITE event 
+2022:01:16 23:15:42 [_6]:41015 12 [DEBUG]  [root] <tests/test_IOManager.cpp :31> READ event 
+2022:01:17 17:03:15 [_8]:15733 0 [DEBUG]  [root] <sylar/IOManager.cpp :63> IOManager stop... 
+2022:01:17 17:03:15 [_8]:15733 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:17 17:03:16 [_7]:15741 11 [DEBUG]  [root] <tests/test_Timer.cpp :12> timer 
+2022:01:17 17:03:51 [_8]:15841 0 [DEBUG]  [root] <sylar/IOManager.cpp :63> IOManager stop... 
+2022:01:17 17:03:51 [_8]:15841 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:17 17:03:51 [_8]:15850 11 [DEBUG]  [root] <tests/test_Timer.cpp :12> timer 
+2022:01:17 17:03:51 [_5]:15847 12 [DEBUG]  [root] <tests/test_Timer.cpp :15> timer2 
+2022:01:17 17:56:28 [_8]:17627 0 [DEBUG]  [root] <sylar/IOManager.cpp :63> IOManager stop... 
+2022:01:17 17:56:28 [_8]:17627 0 [DEBUG]  [root] <sylar/scheduler.cpp :205> scheduler stopping... 
+2022:01:17 17:56:29 [_6]:17634 11 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer1 
+2022:01:17 17:56:30 [_1]:17629 12 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer2 
+2022:01:17 17:56:31 [_1]:17629 13 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer3 
+2022:01:17 17:56:32 [_2]:17630 14 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer4 
+2022:01:17 17:56:33 [_4]:17632 15 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer5 
+2022:01:17 17:56:34 [_5]:17633 16 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer6 
+2022:01:17 17:56:35 [_5]:17633 17 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer7 
+2022:01:17 17:56:36 [_2]:17630 18 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer8 
+2022:01:17 17:56:37 [_4]:17632 19 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer9 
+2022:01:17 17:56:38 [_3]:17631 20 [DEBUG]  [root] <tests/test_Timer.cpp :14> timer10 

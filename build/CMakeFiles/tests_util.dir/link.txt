@@ -1,0 +1,1 @@
+/usr/bin/c++   -std=c++11   CMakeFiles/tests_util.dir/tests/test_util.cpp.o  -o ../bin/tests_util -rdynamic ../lib/libsylar.so -lpthread -lyaml-cpp -Wl,-rpath,/home/lqf/cpp/sylar/lib 
